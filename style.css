@@ -1,0 +1,9 @@
+*{margin: 0; box-sizing: border-box;}
+p {width: 90%; margin: 0 auto;}
+
+.counter {padding: 20px 0; margin: 100px auto; width: 300px; height: 230px; background-color: #C2E6F9;}
+.counter .number {margin:0 auto; padding-right: 30px; height: 60px; line-height: 60px; width: 90%; background-color: #fff; text-align: right; font-size: 25px;}
+.counter .control {padding: 0 10px;}
+.counter .control button {margin-top: 10px; width: 49%; height: 50px;  font-size: 20px; border-width: 0; cursor: pointer;}
+.counter .control button.countReset {margin-top: 6px; width: 100%;}
+
